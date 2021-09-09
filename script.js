@@ -11,7 +11,7 @@ const player0El = document.querySelector('.player--0');
 const player1El = document.querySelector('.player--1');
 let current = 0;
 let player = 0;
-let score = [98,0];
+let score = [0,0];
 
 score0El.textContent = 0;
 score1El.textContent = 0;
